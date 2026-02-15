@@ -1,5 +1,5 @@
 # HTML5 E CSS3
-Arenda html5, css3 e SEO de forma simples, prática e onjetiva desenvolvendo passo a passo do zero até a hospedagem um site moderno e responsivo.
+Aprenda html5, css3 e SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem de um site moderno e responsivo.
 ## Links indicados
 ### Planejamento 
 [cetic](https://www.cetic.br/)
